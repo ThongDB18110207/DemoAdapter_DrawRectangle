@@ -1,0 +1,10 @@
+D:\Codes\OOSD\DesignPattern\Adapter\DemoAdapter_DrawRectangle\DemoAdapter_DrawRectangle\bin\Debug\DemoAdapter_DrawRectangle.exe.config
+D:\Codes\OOSD\DesignPattern\Adapter\DemoAdapter_DrawRectangle\DemoAdapter_DrawRectangle\bin\Debug\DemoAdapter_DrawRectangle.exe
+D:\Codes\OOSD\DesignPattern\Adapter\DemoAdapter_DrawRectangle\DemoAdapter_DrawRectangle\bin\Debug\DemoAdapter_DrawRectangle.pdb
+D:\Codes\OOSD\DesignPattern\Adapter\DemoAdapter_DrawRectangle\DemoAdapter_DrawRectangle\obj\Debug\DemoAdapter.csprojAssemblyReference.cache
+D:\Codes\OOSD\DesignPattern\Adapter\DemoAdapter_DrawRectangle\DemoAdapter_DrawRectangle\obj\Debug\DemoAdapter_DrawRectangle.fMain.resources
+D:\Codes\OOSD\DesignPattern\Adapter\DemoAdapter_DrawRectangle\DemoAdapter_DrawRectangle\obj\Debug\DemoAdapter_DrawRectangle.Properties.Resources.resources
+D:\Codes\OOSD\DesignPattern\Adapter\DemoAdapter_DrawRectangle\DemoAdapter_DrawRectangle\obj\Debug\DemoAdapter.csproj.GenerateResource.cache
+D:\Codes\OOSD\DesignPattern\Adapter\DemoAdapter_DrawRectangle\DemoAdapter_DrawRectangle\obj\Debug\DemoAdapter.csproj.CoreCompileInputs.cache
+D:\Codes\OOSD\DesignPattern\Adapter\DemoAdapter_DrawRectangle\DemoAdapter_DrawRectangle\obj\Debug\DemoAdapter_DrawRectangle.exe
+D:\Codes\OOSD\DesignPattern\Adapter\DemoAdapter_DrawRectangle\DemoAdapter_DrawRectangle\obj\Debug\DemoAdapter_DrawRectangle.pdb
