@@ -10,7 +10,7 @@ namespace DemoAdapter_DrawRectangle.Legacy
 {
     internal class LegacyLine
     {
-        internal void Draw(Panel area, Pen pen, int x1, int y1, int x2, int y2)
+        internal void specificDraw(Panel area, Pen pen, int x1, int y1, int x2, int y2)
         {
             Graphics formGraphics;
             formGraphics = area.CreateGraphics();

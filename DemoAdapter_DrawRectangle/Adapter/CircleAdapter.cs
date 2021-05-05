@@ -18,10 +18,12 @@ namespace DemoAdapter_DrawRectangle.Adapter
             _legacyCircle = legacyCircle;
         }
 
-        public void Draw(Panel area, Pen pen, int x1, int y1, int x2, int y2)
+        public void draw(Panel area, Pen pen, int x1, int y1, int x2, int y2)
         {
             int r = Convert.ToInt32(Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2)));
-            _legacyCircle.Draw(area, pen, x1, y1, r);
+            int left_x = x1 - r;
+            int top_y = y1 - r;
+            _legacyCircle.specificDrawCircle(area, pen, left_x, top_y, r);
         }
     }
 }

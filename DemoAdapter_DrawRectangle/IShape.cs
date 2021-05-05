@@ -10,6 +10,6 @@ namespace DemoAdapter_DrawRectangle
 {
     internal interface IShape
     {
-        void Draw(Panel area, Pen pen, int x1, int y1, int x2, int y2);
+        void draw(Panel area, Pen pen, int x1, int y1, int x2, int y2);
     }
 }

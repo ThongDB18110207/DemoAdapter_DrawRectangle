@@ -18,9 +18,9 @@ namespace DemoAdapter_DrawRectangle.Adapter
             _legacyLine = legacyLine;
         }
 
-        public void Draw(Panel area, Pen pen, int x1, int y1, int x2, int y2)
+        public void draw(Panel area, Pen pen, int x1, int y1, int x2, int y2)
         {
-            _legacyLine.Draw(area, pen, x1, y1, x2, y2);
+            _legacyLine.specificDraw(area, pen, x1, y1, x2, y2);
         }
     }
 }

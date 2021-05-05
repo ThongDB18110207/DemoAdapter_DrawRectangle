@@ -18,13 +18,13 @@ namespace DemoAdapter_DrawRectangle.Adapter
             _legacyRectangle = legacyRectangle;
         }
 
-        public void Draw(Panel area, Pen pen, int x1, int y1, int x2, int y2)
+        public void draw(Panel area, Pen pen, int x1, int y1, int x2, int y2)
         {
             int x = Math.Min(x1, x2);
             int y = Math.Min(y1, y2);
             int width = Math.Abs(x2 - x1);
             int height = Math.Abs(y2 - y1);
-            _legacyRectangle.Draw(area, pen, x, y, width, height);
+            _legacyRectangle.specificDraw(area, pen, x, y, width, height);
         }
     }
 }
