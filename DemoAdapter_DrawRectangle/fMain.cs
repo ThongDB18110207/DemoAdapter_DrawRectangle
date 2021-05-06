@@ -132,7 +132,7 @@ namespace DemoAdapter_DrawRectangle
             }
             else if (shape == 2)
             {
-                note = "X1, Y1, X2, Y2 lần lượt là toạn độ 2 góc bất kỳ của hình chữ nhật"; 
+                note = "X1, Y1, X2, Y2 lần lượt là toạn độ 2 góc trái trên và phải dưới của hình chữ nhật"; 
             }
             else if (shape == 3)
             {
